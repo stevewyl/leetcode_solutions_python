@@ -1,2 +1,2 @@
 # leetcode_solutions_python
-Leetcode problems solutions using Python
+Leetcode problems of algorithms topic solutions using Python
