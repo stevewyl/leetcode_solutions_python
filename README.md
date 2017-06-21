@@ -3,10 +3,10 @@ Leetcode problems of algorithms topic solutions using Python
 
 + Progress:
 
-      Total: 11/551
+      Total: 14/551
 
-      Easy: 11/148
-
-      Medium: 0/294
+      Easy: 13/148
+      
+      Medium: 1/294
 
       Hard:: 0/109
